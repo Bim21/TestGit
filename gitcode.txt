@@ -1,0 +1,4 @@
+git init
+git merge
+git bash 
+git branch
